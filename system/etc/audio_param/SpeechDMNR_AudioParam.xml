@@ -3,10 +3,8 @@
   <ParamTree>
     <Param path="NB" param_id="0"/>
     <Param path="WB" param_id="1"/>
-    <Param path="WB,MagiConference" param_id="1"/>
     <Param path="NB,MagiConference" param_id="0"/>
-    <Param path="NB,4_pole_Headset" param_id="0"/>
-    <Param path="WB,4_pole_Headset" param_id="1"/>
+    <Param path="WB,MagiConference" param_id="1"/>
   </ParamTree>
   <ParamUnitPool>
     <ParamUnit param_id="0">

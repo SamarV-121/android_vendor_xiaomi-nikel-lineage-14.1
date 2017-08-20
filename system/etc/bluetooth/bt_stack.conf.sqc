@@ -3,7 +3,7 @@
 BtSnoopLogOutput=true
 
 # BtSnoop log output file
-BtSnoopFileName=/sdcard/btsnoop_hci.log
+BtSnoopFileName=/sdcard/mtklog/btlog/btsnoop_hci.log
 
 # Preserve existing BtSnoop log before overwriting
 BtSnoopSaveLog=true

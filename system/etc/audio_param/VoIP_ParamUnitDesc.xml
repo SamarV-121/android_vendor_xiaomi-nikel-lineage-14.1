@@ -106,7 +106,7 @@
 			<Field name="ES" array_index="2" bit="11,14"                                                check_list="0,-Inf,1,-24.1dB,2,-18.1dB,3,-14.5dB,4,-12.0dB,5,-10.1dB,6,-8.52dB,7,-7.18dB,8,-6.02dB,9,-5.00dB,10,-4.08dB,11,-3.25dB,12,-2.50dB,13,-1.80dB,14,-1.16dB,15,-0.56dB"/>
 			<Field name="First Echo Suppression control" array_index="1" bit="10,10"                    check_list="0,on,1,off"/>
 			<Field name="AES switch" array_index="1" bit="14,14"                                        check_list="0,on,1,off"/>
-			<Field name="AES" array_index="12" bit="11,14"                                              check_list="0,-0.56dB,1,-1.16dB,2,-1.80dB,3,-2.50dB,4,-3.25dB,5,-4.08dB,6,-5.00dB,7,-6.02dB,8,-7.18dB,9,-8.52dB,10,-10.1dB,11,-12.0dB,12,-14.5dB,13,-18.1dB,14,-24.1dB,15,-Inf"/>
+			<Field name="AES" array_index="12" bit="11,14"                                              check_list="0,-Inf,1,-24.1dB,2,-18.1dB,3,-14.5dB,4,-12.0dB,5,-10.1dB,6,-8.52dB,7,-7.18dB,8,-6.02dB,9,-5.00dB,10,-4.08dB,11,-3.25dB,12,-2.50dB,13,-1.80dB,14,-1.16dB,15,-0.56dB"/>
 			<Field name="Comfort noise generator" array_index="1" bit="5,5"                             check_list="0,off,1,on"/>
 			<Field name="Minimum comfort noise value" array_index="12" bit="0,4"/>
 			<Field name="NLP Suppression behavior control" array_index="1" bit="11,11"                  check_list="0,on,1,off"/>

@@ -2,7 +2,7 @@
 <AudioParam version="1.0">
   <ParamTree>
     <Param path="Sound recording,Handset" param_id="3"/>
-    <Param path="Sound recording,Headset" param_id="4"/>
+    <Param path="Sound recording,Headset" param_id="0"/>
     <Param path="Sound recording,HS5POLE" param_id="0"/>
     <Param path="Sound recording,HS5POLE_ANC" param_id="0"/>
     <Param path="Camera recording,Handset" param_id="2"/>
@@ -45,10 +45,7 @@
       <Param name="ul_gain" value="32"/>
     </ParamUnit>
     <ParamUnit param_id="3">
-      <Param name="ul_gain" value="28"/>
-    </ParamUnit>
-    <ParamUnit param_id="4">
-      <Param name="ul_gain" value="28"/>
+      <Param name="ul_gain" value="34"/>
     </ParamUnit>
   </ParamUnitPool>
 </AudioParam>

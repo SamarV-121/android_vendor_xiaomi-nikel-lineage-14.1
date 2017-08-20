@@ -2,8 +2,8 @@
 <AudioParam version="1.0">
   <ParamTree>
     <Param path="System,RCV" param_id="0"/>
-    <Param path="System,HS" param_id="1"/>
-    <Param path="System,SPK" param_id="3"/>
+    <Param path="System,HS" param_id="2"/>
+    <Param path="System,SPK" param_id="0"/>
     <Param path="System,HSSPK" param_id="0"/>
     <Param path="System,HS5POLE" param_id="0"/>
     <Param path="System,HS5POLE_ANC" param_id="0"/>
@@ -14,8 +14,8 @@
     <Param path="Ring,HS5POLE" param_id="0"/>
     <Param path="Ring,HS5POLE_ANC" param_id="0"/>
     <Param path="Music,RCV" param_id="0"/>
-    <Param path="Music,HS" param_id="2"/>
-    <Param path="Music,SPK" param_id="0"/>
+    <Param path="Music,HS" param_id="0"/>
+    <Param path="Music,SPK" param_id="1"/>
     <Param path="Music,HSSPK" param_id="0"/>
     <Param path="Music,HS5POLE" param_id="0"/>
     <Param path="Music,HS5POLE_ANC" param_id="0"/>
@@ -45,7 +45,7 @@
     <Param path="Enforced_Audible,HS5POLE_ANC" param_id="0"/>
     <Param path="DTMF,RCV" param_id="0"/>
     <Param path="DTMF,HS" param_id="0"/>
-    <Param path="DTMF,SPK" param_id="4"/>
+    <Param path="DTMF,SPK" param_id="0"/>
     <Param path="DTMF,HSSPK" param_id="0"/>
     <Param path="DTMF,HS5POLE" param_id="0"/>
     <Param path="DTMF,HS5POLE_ANC" param_id="0"/>
@@ -79,16 +79,10 @@
       <Param name="digital_gain" value="-64,-42,-39,-36,-33,-30,-27,-24,-21,-18,-15,-12,-9,-6,-3,0"/>
     </ParamUnit>
     <ParamUnit param_id="1">
-      <Param name="digital_gain" value="-64,-42,-39,-36,-33,-30,-27,-24,-21,-18,-15,-12,-9,-6,-3,0"/>
+      <Param name="digital_gain" value="-64,-48,-44,-40,-36,-32,-28,-24,-20,-17,-15,-13,-11,-9,-7,-5"/>
     </ParamUnit>
     <ParamUnit param_id="2">
       <Param name="digital_gain" value="-64,-42,-39,-36,-33,-30,-27,-24,-21,-18,-15,-12,-9,-6,-3,0"/>
-    </ParamUnit>
-    <ParamUnit param_id="3">
-      <Param name="digital_gain" value="-64,-46,-42,-40,-38,-36,-34,-32,-28,-26,-24,-22,-20,-18,-16,-14"/>
-    </ParamUnit>
-    <ParamUnit param_id="4">
-      <Param name="digital_gain" value="-64,-42,-39,-36,-33,-30,-27,-24,-21,-18,-15,-12,-10,-8,-6,-4"/>
     </ParamUnit>
   </ParamUnitPool>
 </AudioParam>
